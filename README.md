@@ -59,7 +59,7 @@ Hi, I'm [Vlad Fedorovich](https://t.me/sskef), a web and app developer 👨🏻�
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+<a href="https://github.com/sskef-web/achieveclubmobileclient" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sskef-web&repo=achieveclubmobileclient&theme=dracula" />
 </a>
 <div align="center">
