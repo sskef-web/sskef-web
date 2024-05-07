@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, I'm [Vlad Fedorovich](https://t.me/sskef), a web and app developer 👨🏻‍💻 from Belarus. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.**
+Hi, I'm [Vlad Fedorovich](https://t.me/sskef), a web and app developer 👨🏻‍💻 from Belarus. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.**
 
 <br>
 
