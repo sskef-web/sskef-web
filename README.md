@@ -63,6 +63,10 @@ Hi, I'm [Vlad Fedorovich](https://t.me/sskef), a web and app developer 👨🏻�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sskef-web&repo=achieveclubmobileclient&theme=dracula" />
 </a>
 <div align="center">
+<a href="https://github.com/sskef-web/PasadenaMobileClient" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sskef-web&repo=PasadenaMobileClient&theme=dracula" />
+</a>
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
