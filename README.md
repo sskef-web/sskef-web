@@ -9,12 +9,6 @@
 Hi, I'm [Vlad Fedorovich](https://t.me/sskef), a web and app developer 👨🏻‍💻 from Belarus. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.**
 
 <br>
-
- - 📫 How to reach me: [sskef.2b2t@gmail.com](mailto:sskef.2b2t@gmail.com);
- - 🔗 My Telegram: [https://t.me/sskef](https://t.me/sskef)
- 
- <br>
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sskef-web" alt="sskef-web" /> </p>
  
  </br>
